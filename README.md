@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c'est Yassine</h1>
-<h3 align="center">Student Data IA · EPF Engineering School</h3>
+<h3 align="center">Student Data AI · EPF Engineering School</h3>
 
 <p align="center">
 Passionné par l’IA, le backend et les architectures logicielles.
